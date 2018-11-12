@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Task 3", "Lab Task 3\Lab Task 3.csproj", "{D52E9750-280E-42F4-8CB3-C234E7552169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyBrowserLib", "AssemblyBrowserLib\AssemblyBrowserLib.csproj", "{02C0448E-31C7-43C1-A6EA-7908560BEB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52E9750-280E-42F4-8CB3-C234E7552169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52E9750-280E-42F4-8CB3-C234E7552169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52E9750-280E-42F4-8CB3-C234E7552169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52E9750-280E-42F4-8CB3-C234E7552169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C0448E-31C7-43C1-A6EA-7908560BEB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C0448E-31C7-43C1-A6EA-7908560BEB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C0448E-31C7-43C1-A6EA-7908560BEB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C0448E-31C7-43C1-A6EA-7908560BEB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
