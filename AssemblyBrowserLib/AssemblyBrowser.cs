@@ -6,9 +6,9 @@ namespace AssemblyBrowserLib
     public class AssemblyBrowser
     {
         
-        public List<NamespaceInfo> GetAssemblyInfo(Assembly assembly)
+        public List<NamespaceInf> GetAssemblyInfo(Assembly assembly)
         {
-            var namespaces = new List<NamespaceInfo>();
+            var namespaces = new List<NamespaceInf>();
             foreach (var type in assembly.DefinedTypes)
             {
                 if (type.Namespace != null)
@@ -16,7 +16,7 @@ namespace AssemblyBrowserLib
                     var targetNamespace = namespaces.Find(x => x.Name == type.Namespace);
                     if (targetNamespace == null)
                     {
-                        targetNamespace = new NamespaceInfo(type.Namespace);
+                        targetNamespace = new NamespaceInf(type.Namespace);
                         targetNamespace.AddType(new TypeInfo(type));
                         namespaces.Add(targetNamespace);
                     }
@@ -30,7 +30,7 @@ namespace AssemblyBrowserLib
                     var targetNamespace = namespaces.Find(x => x.Name == "Global");
                     if (targetNamespace == null)
                     {
-                        targetNamespace = new NamespaceInfo("Global");
+                        targetNamespace = new NamespaceInf("Global");
                         targetNamespace.AddType(new TypeInfo(type));
                         namespaces.Add(targetNamespace);
                     }

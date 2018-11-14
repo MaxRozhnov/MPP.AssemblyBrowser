@@ -39,9 +39,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyBrowser.cs" />
-    <Compile Include="NamespaceInfo.cs" />
+    <Compile Include="FieldInf.cs" />
+    <Compile Include="MethodInf.cs" />
+    <Compile Include="NamespaceInf.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TypeInfo.cs" />
+    <Compile Include="PropertyInf.cs" />
+    <Compile Include="TypeInf.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
