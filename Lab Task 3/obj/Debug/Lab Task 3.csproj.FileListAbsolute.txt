@@ -1,0 +1,15 @@
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\bin\Debug\Lab_Task_3.exe.config
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\bin\Debug\Lab_Task_3.exe
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\bin\Debug\Lab_Task_3.pdb
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.csprojAssemblyReference.cache
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\MainWindow.g.cs
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\App.g.cs
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3_MarkupCompile.cache
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3_MarkupCompile.lref
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\MainWindow.baml
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.g.resources
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Properties.Resources.resources
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.csproj.GenerateResource.cache
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.exe
+C:\Users\Max\RiderProjects\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.pdb

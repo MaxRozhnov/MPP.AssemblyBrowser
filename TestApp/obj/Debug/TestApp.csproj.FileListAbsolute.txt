@@ -1,0 +1,9 @@
+C:\Users\Max\RiderProjects\Lab Task 3\TestApp\bin\Debug\TestApp.exe
+C:\Users\Max\RiderProjects\Lab Task 3\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Max\RiderProjects\Lab Task 3\TestApp\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\Max\RiderProjects\Lab Task 3\TestApp\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\Max\RiderProjects\Lab Task 3\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\Max\RiderProjects\Lab Task 3\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Max\RiderProjects\Lab Task 3\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\Max\RiderProjects\Lab Task 3\TestApp\obj\Debug\TestApp.exe
+C:\Users\Max\RiderProjects\Lab Task 3\TestApp\obj\Debug\TestApp.pdb

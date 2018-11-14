@@ -1,0 +1,6 @@
+C:\Users\Max\RiderProjects\Lab Task 3\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\Max\RiderProjects\Lab Task 3\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\Max\RiderProjects\Lab Task 3\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.csprojAssemblyReference.cache
+C:\Users\Max\RiderProjects\Lab Task 3\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.csproj.CoreCompileInputs.cache
+C:\Users\Max\RiderProjects\Lab Task 3\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.dll
+C:\Users\Max\RiderProjects\Lab Task 3\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.pdb

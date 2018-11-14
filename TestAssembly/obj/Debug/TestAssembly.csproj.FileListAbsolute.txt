@@ -1,0 +1,6 @@
+C:\Users\Max\RiderProjects\Lab Task 3\TestAssembly\bin\Debug\TestAssembly.dll
+C:\Users\Max\RiderProjects\Lab Task 3\TestAssembly\bin\Debug\TestAssembly.pdb
+C:\Users\Max\RiderProjects\Lab Task 3\TestAssembly\obj\Debug\TestAssembly.csprojAssemblyReference.cache
+C:\Users\Max\RiderProjects\Lab Task 3\TestAssembly\obj\Debug\TestAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Max\RiderProjects\Lab Task 3\TestAssembly\obj\Debug\TestAssembly.dll
+C:\Users\Max\RiderProjects\Lab Task 3\TestAssembly\obj\Debug\TestAssembly.pdb
