@@ -6,17 +6,17 @@ namespace AssemblyBrowserLib
     public class NamespaceInf
     {
         public readonly string Name;
-        public readonly List<TypeInfo> Types;
+        public readonly List<TypeInf> Types;
 
         public NamespaceInf(string name)
         {
             Name = name;
-            Types = new List<TypeInfo>();
+            Types = new List<TypeInf>();
         }
 
-        public void AddType(TypeInfo typeInfo)
+        public void AddType(TypeInf typeInf)
         {
-            Types.Add(typeInfo);
+            Types.Add(typeInf);
         }
        
     }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace AssemblyBrowserLib
 {
-    public class TypeInfo
+    public class TypeInf
     {
        
         public List<FieldInf> Fields { get; }
@@ -18,7 +18,7 @@ namespace AssemblyBrowserLib
         
         public string Name { get; }
         
-        public TypeInfo(Type type)
+        public TypeInf(Type type)
         {
 
             Fields = new List<FieldInf>();

@@ -19,7 +19,12 @@
           <e p="Resources.resx" t="Include" />
         </e>
         <e p="ViewModel" t="Include">
+          <e p="FieldVM.cs" t="Include" />
+          <e p="MethodVM.cs" t="Include" />
+          <e p="PropertyVM.cs" t="Include" />
+          <e p="TypeVM.cs" t="Include" />
           <e p="VmBase.cs" t="Include" />
+          <e p="VMMain.cs" t="Include" />
         </e>
       </e>
       <e p="AssemblyBrowserLib" t="IncludeRecursive">

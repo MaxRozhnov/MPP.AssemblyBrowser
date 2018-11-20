@@ -17,12 +17,12 @@ namespace AssemblyBrowserLib
                     if (targetNamespace == null)
                     {
                         targetNamespace = new NamespaceInf(type.Namespace);
-                        targetNamespace.AddType(new TypeInfo(type));
+                        targetNamespace.AddType(new TypeInf(type));
                         namespaces.Add(targetNamespace);
                     }
                     else
                     {
-                        targetNamespace.AddType(new TypeInfo(type));
+                        targetNamespace.AddType(new TypeInf(type));
                     }  
                 }
                 else
@@ -31,12 +31,12 @@ namespace AssemblyBrowserLib
                     if (targetNamespace == null)
                     {
                         targetNamespace = new NamespaceInf("Global");
-                        targetNamespace.AddType(new TypeInfo(type));
+                        targetNamespace.AddType(new TypeInf(type));
                         namespaces.Add(targetNamespace);
                     }
                     else
                     {
-                        targetNamespace.AddType(new TypeInfo(type));
+                        targetNamespace.AddType(new TypeInf(type));
                     }  
                 }   
             }

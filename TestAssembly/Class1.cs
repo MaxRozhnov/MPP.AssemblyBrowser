@@ -4,6 +4,7 @@
     {
         public class TestClass1
         {
+            private string text;
         }
     }
 

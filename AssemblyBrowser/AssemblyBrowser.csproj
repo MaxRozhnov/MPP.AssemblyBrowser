@@ -50,7 +50,12 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ViewModel\FieldVM.cs" />
+    <Compile Include="ViewModel\MethodVM.cs" />
+    <Compile Include="ViewModel\PropertyVM.cs" />
+    <Compile Include="ViewModel\TypeVM.cs" />
     <Compile Include="ViewModel\VMBase.cs" />
+    <Compile Include="ViewModel\VMMain.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -80,6 +85,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AssemblyBrowserLib\AssemblyBrowserLib.csproj">
+      <Project>{02c0448e-31c7-43c1-a6ea-7908560beb3e}</Project>
+      <Name>AssemblyBrowserLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
