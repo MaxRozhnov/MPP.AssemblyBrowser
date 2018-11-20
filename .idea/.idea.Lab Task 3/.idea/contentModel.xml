@@ -18,6 +18,10 @@
           <e p="Resources.Designer.cs" t="Include" />
           <e p="Resources.resx" t="Include" />
         </e>
+        <e p="Utils" t="Include">
+          <e p="DelegateCommand.cs" t="Include" />
+          <e p="FileOpener.cs" t="Include" />
+        </e>
         <e p="ViewModel" t="Include">
           <e p="FieldVM.cs" t="Include" />
           <e p="MethodVM.cs" t="Include" />

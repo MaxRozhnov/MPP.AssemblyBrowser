@@ -50,6 +50,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Utils\DelegateCommand.cs" />
+    <Compile Include="Utils\FileOpener.cs" />
     <Compile Include="ViewModel\FieldVM.cs" />
     <Compile Include="ViewModel\MethodVM.cs" />
     <Compile Include="ViewModel\PropertyVM.cs" />

@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8c97d80-0536-4935-a00a-baa6d979a0a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AssemblyBrowser/ViewModel/FieldVM.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssemblyBrowser/ViewModel/MethodVM.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssemblyBrowser/ViewModel/PropertyVM.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssemblyBrowser/ViewModel/TypeVM.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssemblyBrowser/ViewModel/VMMain.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssemblyBrowser/Utils/DelegateCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssemblyBrowser/Utils/FileOpener.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AssemblyBrowser/AssemblyBrowser.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowser/AssemblyBrowser.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowser/ViewModel/VMBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowser/ViewModel/VMBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInf.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAssembly/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestAssembly/Class1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAssembly/bin/Debug/TestAssembly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestAssembly/bin/Debug/TestAssembly.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAssembly/bin/Debug/TestAssembly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestAssembly/bin/Debug/TestAssembly.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAssembly/obj/Debug/TestAssembly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestAssembly/obj/Debug/TestAssembly.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAssembly/obj/Debug/TestAssembly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestAssembly/obj/Debug/TestAssembly.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,27 +27,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="29" />
+          <entry key="cs" value="31" />
           <entry key="csproj" value="1" />
           <entry key="xaml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="29" />
+          <entry key="C#" value="31" />
           <entry key="Csproj" value="1" />
           <entry key="XAML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="3251" />
+          <entry key="cs" value="3297" />
           <entry key="xaml" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3251" />
+          <entry key="C#" value="3297" />
           <entry key="XAML" value="50" />
         </counts>
       </usages-collector>
@@ -67,14 +55,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AssemblyBrowser/ViewModel/TypeVM.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+            <state relative-caret-position="735">
+              <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
               <folding>
                 <marker date="1542746645713" expanded="true" signature="6:110" ph="..." />
-                <marker date="1542746645713" expanded="false" signature="147:2042" ph="{...}" />
+                <marker date="1542746645713" expanded="true" signature="147:2042" ph="{...}" />
                 <marker date="1542746645713" expanded="true" signature="173:2040" ph="{...}" />
                 <marker date="1542746645713" expanded="false" signature="267:1141" ph="{...}" />
                 <marker date="1542746645713" expanded="true" signature="293:1131" ph="{...}" />
@@ -91,6 +79,38 @@
                 <marker date="1542746645713" expanded="true" signature="1707:1781" ph="{...}" />
                 <marker date="1542746645713" expanded="true" signature="1836:1927" ph="{...}" />
                 <marker date="1542746645713" expanded="true" signature="1988:2034" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AssemblyBrowser/Utils/FileOpener.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <marker date="1542749610552" expanded="true" signature="55:453" ph="{...}" />
+                <marker date="1542749610552" expanded="true" signature="85:451" ph="{...}" />
+                <marker date="1542749610552" expanded="true" signature="168:445" ph="{...}" />
+                <marker date="1542749610552" expanded="true" signature="286:395" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AssemblyBrowser/Utils/DelegateCommand.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+              <folding>
+                <marker date="1542747640549" expanded="true" signature="6:41" ph="..." />
+                <marker date="1542747640549" expanded="true" signature="74:713" ph="{...}" />
+                <marker date="1542747640549" expanded="true" signature="120:711" ph="{...}" />
+                <marker date="1542747640549" expanded="true" signature="317:407" ph="{...}" />
+                <marker date="1542747640549" expanded="true" signature="457:543" ph="{...}" />
+                <marker date="1542747640549" expanded="true" signature="590:643" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -192,7 +212,9 @@
     <setting file="file://$PROJECT_DIR$/AssemblyBrowser/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Lab Task 3/ViewModel/VMBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AssemblyBrowser/Utils/FileOpener.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestAssembly/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AssemblyBrowser/Utils/DelegateCommand.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -222,6 +244,8 @@
         <option value="$PROJECT_DIR$/AssemblyBrowser/ViewModel/MethodVM.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowser/ViewModel/TypeVM.cs" />
+        <option value="$PROJECT_DIR$/AssemblyBrowser/Utils/DelegateCommand.cs" />
+        <option value="$PROJECT_DIR$/AssemblyBrowser/Utils/FileOpener.cs" />
       </list>
     </option>
   </component>
@@ -260,7 +284,7 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Lab Task 3" type="24d0babc:SolutionExplorerModelNode" />
               <item name="AssemblyBrowser" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ViewModel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Utils" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -359,12 +383,12 @@
       <workItem from="1542559435431" duration="1495000" />
       <workItem from="1542637025818" duration="1387000" />
       <workItem from="1542719996973" duration="5481000" />
-      <workItem from="1542745906894" duration="746000" />
+      <workItem from="1542745906894" duration="3461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20532000" />
+    <option name="totallyTimeSpent" value="23247000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -609,13 +633,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowser/Utils/DelegateCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <marker date="1542747640549" expanded="true" signature="6:41" ph="..." />
+            <marker date="1542747640549" expanded="true" signature="74:713" ph="{...}" />
+            <marker date="1542747640549" expanded="true" signature="120:711" ph="{...}" />
+            <marker date="1542747640549" expanded="true" signature="317:407" ph="{...}" />
+            <marker date="1542747640549" expanded="true" signature="457:543" ph="{...}" />
+            <marker date="1542747640549" expanded="true" signature="590:643" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AssemblyBrowser/ViewModel/TypeVM.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+        <state relative-caret-position="735">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
           <folding>
             <marker date="1542746645713" expanded="true" signature="6:110" ph="..." />
-            <marker date="1542746645713" expanded="false" signature="147:2042" ph="{...}" />
+            <marker date="1542746645713" expanded="true" signature="147:2042" ph="{...}" />
             <marker date="1542746645713" expanded="true" signature="173:2040" ph="{...}" />
             <marker date="1542746645713" expanded="false" signature="267:1141" ph="{...}" />
             <marker date="1542746645713" expanded="true" signature="293:1131" ph="{...}" />
@@ -632,6 +671,19 @@
             <marker date="1542746645713" expanded="true" signature="1707:1781" ph="{...}" />
             <marker date="1542746645713" expanded="true" signature="1836:1927" ph="{...}" />
             <marker date="1542746645713" expanded="true" signature="1988:2034" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowser/Utils/FileOpener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1542749610552" expanded="true" signature="55:453" ph="{...}" />
+            <marker date="1542749610552" expanded="true" signature="85:451" ph="{...}" />
+            <marker date="1542749610552" expanded="true" signature="168:445" ph="{...}" />
+            <marker date="1542749610552" expanded="true" signature="286:395" ph="{...}" />
           </folding>
         </state>
       </provider>
