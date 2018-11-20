@@ -54,6 +54,7 @@
     <Compile Include="Utils\FileOpener.cs" />
     <Compile Include="ViewModel\FieldVM.cs" />
     <Compile Include="ViewModel\MethodVM.cs" />
+    <Compile Include="ViewModel\NamespaceVM.cs" />
     <Compile Include="ViewModel\PropertyVM.cs" />
     <Compile Include="ViewModel\TypeVM.cs" />
     <Compile Include="ViewModel\VMBase.cs" />

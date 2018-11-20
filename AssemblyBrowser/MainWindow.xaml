@@ -3,10 +3,53 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:AssemblyBrowser.ViewModel"
         xmlns:local="clr-namespace:AssemblyBrowser"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
+    <Window.DataContext>
+        <vm:VMMain/>
+    </Window.DataContext>
+    
+    <Window.Resources>
         
+        <vm:VMMain x:Key="VmMain"/>
+        
+        <HierarchicalDataTemplate DataType="{x:Type vm:NamespaceVM}" ItemsSource="{Binding Types}">
+            <TextBlock Text="{Binding Name}" Margin="10, 0, 0, 0"/>
+        </HierarchicalDataTemplate>
+        
+        <HierarchicalDataTemplate DataType="{x:Type vm:TypeVM}" ItemsSource="{Binding Members}">
+            <TextBlock Text="{Binding TypeStringRepresentation}" Margin="10, 0, 0, 0"/>
+        </HierarchicalDataTemplate>
+        
+        <DataTemplate DataType="{x:Type vm:FieldVM}">
+            <TextBlock Text="{Binding FieldStringRepresentation}" Margin="10, 0, 0, 0"/>
+        </DataTemplate>
+        
+        <DataTemplate DataType="{x:Type vm:PropertyVM}">
+            <TextBlock Text="{Binding PropertyStringRepresentation}" Margin="10, 0, 0, 0"/>
+        </DataTemplate>
+        
+        <DataTemplate DataType="{x:Type vm:MethodVM}">
+            <TextBlock Text="{Binding MethodStringRepresentation}" Margin="10, 0, 0, 0"/>
+        </DataTemplate>
+        
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" 
+                Command="{Binding LoadAssembly}" 
+                x:Name="loadAssemblyButton"
+                Content="Load Assembly"></Button>
+
+        <TreeView Grid.Row ="1" x:Name="assemblyInfoTreeView">
+            <TreeViewItem ItemsSource="{Binding Namespaces}" Header="Assembly info"/>
+        </TreeView>
     </Grid>
 </Window>

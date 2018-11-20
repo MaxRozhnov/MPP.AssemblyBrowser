@@ -5,8 +5,13 @@ namespace AssemblyBrowserLib
 {
     public class AssemblyBrowser
     {
+        public List<NamespaceInf> GetAssemblyTypes(string pathToAssembly)
+        {
+            var assembly = Assembly.LoadFrom(pathToAssembly);
+            return GetAssemblyInfo(assembly);
+        }
         
-        public List<NamespaceInf> GetAssemblyInfo(Assembly assembly)
+        private List<NamespaceInf> GetAssemblyInfo(Assembly assembly)
         {
             var namespaces = new List<NamespaceInf>();
             foreach (var type in assembly.DefinedTypes)

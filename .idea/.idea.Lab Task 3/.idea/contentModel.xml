@@ -25,6 +25,7 @@
         <e p="ViewModel" t="Include">
           <e p="FieldVM.cs" t="Include" />
           <e p="MethodVM.cs" t="Include" />
+          <e p="NamespaceVM.cs" t="Include" />
           <e p="PropertyVM.cs" t="Include" />
           <e p="TypeVM.cs" t="Include" />
           <e p="VmBase.cs" t="Include" />
