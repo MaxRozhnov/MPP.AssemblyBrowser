@@ -38,10 +38,8 @@ namespace AssemblyBrowserLib
                     {
                         targetNamespace.AddType(new TypeInfo(type));
                     }  
-                }
-                
+                }   
             }
-
             return namespaces;
         }
     }

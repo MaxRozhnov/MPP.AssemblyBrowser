@@ -2,13 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8c97d80-0536-4935-a00a-baa6d979a0a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Task 3/ViewModel/VMBase.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowserLib.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowserLib.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInf.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/TypeInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/FieldInf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/FieldInf.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/MethodInf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/MethodInf.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/PropertyInf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/PropertyInf.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/bin/Debug/AssemblyBrowserLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/bin/Debug/AssemblyBrowserLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/bin/Debug/AssemblyBrowserLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/bin/Debug/AssemblyBrowserLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/obj/Debug/AssemblyBrowserLib.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/obj/Debug/AssemblyBrowserLib.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/obj/Debug/AssemblyBrowserLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/obj/Debug/AssemblyBrowserLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssemblyBrowserLib/obj/Debug/AssemblyBrowserLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowserLib/obj/Debug/AssemblyBrowserLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/Lab Task 3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/Lab Task 3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/MainWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/MainWindow.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/bin/Debug/Lab_Task_3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/bin/Debug/Lab_Task_3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/bin/Debug/Lab_Task_3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/bin/Debug/Lab_Task_3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/obj/Debug/Lab_Task_3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/obj/Debug/Lab_Task_3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/obj/Debug/Lab_Task_3.g.resources" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/obj/Debug/Lab_Task_3.g.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/obj/Debug/Lab_Task_3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/obj/Debug/Lab_Task_3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/obj/Debug/MainWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/obj/Debug/MainWindow.baml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/obj/Debug/MainWindow.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/obj/Debug/MainWindow.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3/obj/Debug/MainWindow.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3/obj/Debug/MainWindow.g.i.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/bin/Debug/AssemblyBrowserLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp/bin/Debug/AssemblyBrowserLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/bin/Debug/AssemblyBrowserLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp/bin/Debug/AssemblyBrowserLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/bin/Debug/TestApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp/bin/Debug/TestApp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/bin/Debug/TestApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp/bin/Debug/TestApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/obj/Debug/TestApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp/obj/Debug/TestApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/obj/Debug/TestApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp/obj/Debug/TestApp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/obj/Debug/TestApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp/obj/Debug/TestApp.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,158 +44,52 @@
     <session id="-659173409">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="11" />
-          <entry key="xaml" value="1" />
+          <entry key="cs" value="13" />
+          <entry key="csproj" value="1" />
+          <entry key="xaml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="11" />
-          <entry key="XAML" value="1" />
+          <entry key="C#" value="13" />
+          <entry key="Csproj" value="1" />
+          <entry key="XAML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1979" />
+          <entry key="cs" value="2049" />
+          <entry key="xaml" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1979" />
+          <entry key="C#" value="2049" />
+          <entry key="XAML" value="50" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="87" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
-              <folding>
-                <marker date="1542206428848" expanded="true" signature="6:58" ph="..." />
-                <marker date="1542206428848" expanded="true" signature="88:1598" ph="{...}" />
-                <marker date="1542206428848" expanded="true" signature="123:1596" ph="{...}" />
-                <marker date="1542206428848" expanded="true" signature="207:1590" ph="{...}" />
-                <marker date="1542206428848" expanded="true" signature="328:1548" ph="{...}" />
-                <marker date="1542206428848" expanded="true" signature="386:947" ph="{...}" />
-                <marker date="1542206428848" expanded="true" signature="543:789" ph="{...}" />
-                <marker date="1542206428848" expanded="true" signature="814:927" ph="{...}" />
-                <marker date="1542206428848" expanded="true" signature="968:1517" ph="{...}" />
-                <marker date="1542206428848" expanded="true" signature="1119:1359" ph="{...}" />
-                <marker date="1542206428848" expanded="true" signature="1384:1497" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInf.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <marker date="1542206428764" expanded="false" signature="6:47" ph="..." />
-                <marker date="1542206428764" expanded="true" signature="77:444" ph="{...}" />
-                <marker date="1542206428764" expanded="true" signature="109:442" ph="{...}" />
-                <marker date="1542206428764" expanded="true" signature="240:327" ph="{...}" />
-                <marker date="1542206428764" expanded="true" signature="375:428" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
-              <folding>
-                <marker date="1542206823949" expanded="false" signature="6:47" ph="..." />
-                <marker date="1542206823949" expanded="true" signature="77:1454" ph="{...}" />
-                <marker date="1542206823949" expanded="true" signature="105:1452" ph="{...}" />
-                <marker date="1542206823949" expanded="true" signature="558:959" ph="{...}" />
-                <marker date="1542206823949" expanded="true" signature="1008:1164" ph="{...}" />
-                <marker date="1542206823949" expanded="true" signature="1072:1152" ph="{...}" />
-                <marker date="1542206823949" expanded="true" signature="1212:1361" ph="{...}" />
-                <marker date="1542206823949" expanded="true" signature="1274:1351" ph="{...}" />
-                <marker date="1542206823949" expanded="true" signature="1413:1446" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/MethodInf.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <marker date="1542206566041" expanded="true" signature="54:668" ph="{...}" />
-                <marker date="1542206566041" expanded="true" signature="83:666" ph="{...}" />
-                <marker date="1542206566041" expanded="true" signature="373:660" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/FieldInf.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <marker date="1542206723476" expanded="true" signature="54:486" ph="{...}" />
-                <marker date="1542206723476" expanded="true" signature="82:484" ph="{...}" />
-                <marker date="1542206723476" expanded="true" signature="284:474" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/PropertyInf.cs">
+        <entry file="file://$PROJECT_DIR$/AssemblyBrowser/MainWindow.xaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding>
-                <marker date="1542206948752" expanded="true" signature="54:609" ph="{...}" />
-                <marker date="1542206948752" expanded="true" signature="85:607" ph="{...}" />
-                <marker date="1542206948752" expanded="true" signature="365:601" ph="{...}" />
+                <marker date="1542726697155" expanded="true" signature="0:501" ph="&lt;&lt;Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1542726697155" expanded="true" signature="464:491" ph="&lt;.../&gt;" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestApp/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <marker date="1542138327697" expanded="false" signature="6:50" ph="..." />
-                <marker date="1542138327697" expanded="true" signature="71:375" ph="{...}" />
-                <marker date="1542138327697" expanded="true" signature="100:373" ph="{...}" />
-                <marker date="1542138327697" expanded="true" signature="153:367" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/234F0A13-016A-4580-8C1B-83FC70207998/6e/dfa0003b/Assembly.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -182,15 +100,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Lab Task 3/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/234F0A13-016A-4580-8C1B-83FC70207998/6e/dfa0003b/Assembly.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AssemblyBrowserLib/PropertyInf.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AssemblyBrowserLib/FieldInf.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInf.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AssemblyBrowserLib/MethodInf.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab Task 3/MainWindow.xaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInf.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab Task 3/MainWindow.xaml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AssemblyBrowser/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab Task 3/ViewModel/VMBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestAssembly/Class1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -199,17 +120,22 @@
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/Class1.cs" />
         <option value="$PROJECT_DIR$/TestAssembly/Class1.cs" />
         <option value="$PROJECT_DIR$/TestApp/Program.cs" />
-        <option value="$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInfo.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/PropertyInfo.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/MethodInfo.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/TypeInfo.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInf.cs" />
-        <option value="$PROJECT_DIR$/AssemblyBrowserLib/MethodInf.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/FieldInfo.cs" />
-        <option value="$PROJECT_DIR$/AssemblyBrowserLib/FieldInf.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs" />
         <option value="$PROJECT_DIR$/AssemblyBrowserLib/PropertyInf.cs" />
+        <option value="$PROJECT_DIR$/AssemblyBrowserLib/FieldInf.cs" />
+        <option value="$PROJECT_DIR$/AssemblyBrowserLib/MethodInf.cs" />
+        <option value="$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs" />
+        <option value="$PROJECT_DIR$/Lab Task 3/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/Lab Task 3/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/Lab Task 3/ViewModel/VmBase.cs" />
+        <option value="$PROJECT_DIR$/Lab Task 3/ViewModel/VMBase.cs" />
+        <option value="$PROJECT_DIR$/Lab Task 3/Lab Task 3.csproj" />
       </list>
     </option>
   </component>
@@ -242,12 +168,7 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Lab Task 3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AssemblyBrowserLib" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Lab Task 3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AssemblyBrowser" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -273,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.TestApp">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Lab Task 3/bin/Debug/Lab_Task_3.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -332,12 +253,15 @@
       <updated>1542033426975</updated>
       <workItem from="1542033428916" duration="5048000" />
       <workItem from="1542136035704" duration="1880000" />
-      <workItem from="1542181023671" duration="3088000" />
+      <workItem from="1542181023671" duration="4495000" />
+      <workItem from="1542559435431" duration="1495000" />
+      <workItem from="1542637025818" duration="1387000" />
+      <workItem from="1542719996973" duration="1221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10016000" />
+    <option name="totallyTimeSpent" value="15526000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,15 +274,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="1081" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25225767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21131848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39978904" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -412,24 +335,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/Class1.cs" />
-    <entry file="file://$PROJECT_DIR$/Lab Task 3/MainWindow.xaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestAssembly/Class1.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <marker date="1542036608424" expanded="true" signature="22:175" ph="{...}" />
-            <marker date="1542036608424" expanded="true" signature="58:122" ph="{...}" />
-            <marker date="1542036608424" expanded="true" signature="96:116" ph="{...}" />
-            <marker date="1542036608424" expanded="true" signature="151:172" ph="{...}" />
-            <marker date="1542036608424" expanded="true" signature="206:215" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -437,6 +346,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInf.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/MethodInf.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/FieldInf.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/PropertyInf.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Task 3/Lab Task 3.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Task 3/ViewModel/VMBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1542726803630" expanded="true" signature="66:377" ph="{...}" />
+            <marker date="1542726803630" expanded="true" signature="126:374" ph="{...}" />
+            <marker date="1542726803630" expanded="true" signature="258:363" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Task 3/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <marker date="1542726541880" expanded="true" signature="0:878" ph="&lt;&lt;Grid&gt;&#10;        &lt;Button x:Name=&quot;myButton&quot; Width=&quot;120&quot; Height=&quot;40&quot; Content=&quot;Кнопка&quot; HorizontalAlignment=&quot;Left&quot; Background=&quot;Red&quot; /&gt;&#10;        &lt;Expander Header=&quot;Namespace&quot;&gt;&#10;            &lt;StackPanel&gt;&#10;                &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;&#10;                &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;&#10;                &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;&#10;            &lt;/StackPanel&gt;&#10;&#10;        &lt;/Expander&gt;&#10;       &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1542726541880" expanded="true" signature="454:868" ph="&lt;&lt;Button x:Name=&quot;myButton&quot; Width=&quot;120&quot; Height=&quot;40&quot; Content=&quot;Кнопка&quot; HorizontalAlignment=&quot;Left&quot; Background=&quot;Red&quot; /&gt; &lt;Expander Header=&quot;Namespace&quot;&gt;&#10;            &lt;StackPanel&gt;&#10;                &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;&#10;                &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;&#10;                &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;&#10;            &lt;/StackPanel&gt;&#10;&#10;        &lt;/Expander&gt;.../&gt;" />
+            <marker date="1542726541880" expanded="true" signature="591:848" ph="&lt;&lt;StackPanel&gt;&#10;                &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;&#10;                &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;&#10;                &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;&#10;            &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1542726541880" expanded="true" signature="633:827" ph="&lt;&lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt; &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt; &lt;Expander Header=&quot;Type&quot;&gt;&lt;/Expander&gt;.../&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -453,90 +432,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/AssemblyBrowser.cs">
+    <entry file="file://$PROJECT_DIR$/Lab Task 3/MainWindow.xaml.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="87" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
+        <state relative-caret-position="180">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
-            <marker date="1542206428848" expanded="true" signature="6:58" ph="..." />
-            <marker date="1542206428848" expanded="true" signature="88:1598" ph="{...}" />
-            <marker date="1542206428848" expanded="true" signature="123:1596" ph="{...}" />
-            <marker date="1542206428848" expanded="true" signature="207:1590" ph="{...}" />
-            <marker date="1542206428848" expanded="true" signature="328:1548" ph="{...}" />
-            <marker date="1542206428848" expanded="true" signature="386:947" ph="{...}" />
-            <marker date="1542206428848" expanded="true" signature="543:789" ph="{...}" />
-            <marker date="1542206428848" expanded="true" signature="814:927" ph="{...}" />
-            <marker date="1542206428848" expanded="true" signature="968:1517" ph="{...}" />
-            <marker date="1542206428848" expanded="true" signature="1119:1359" ph="{...}" />
-            <marker date="1542206428848" expanded="true" signature="1384:1497" ph="{...}" />
+            <marker date="1542637181997" expanded="true" signature="43:262" ph="{...}" />
+            <marker date="1542637181997" expanded="true" signature="50:128" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1542637181997" expanded="true" signature="164:260" ph="{...}" />
+            <marker date="1542637181997" expanded="true" signature="198:253" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/NamespaceInf.cs">
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowser/MainWindow.xaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
-            <marker date="1542206428764" expanded="false" signature="6:47" ph="..." />
-            <marker date="1542206428764" expanded="true" signature="77:444" ph="{...}" />
-            <marker date="1542206428764" expanded="true" signature="109:442" ph="{...}" />
-            <marker date="1542206428764" expanded="true" signature="240:327" ph="{...}" />
-            <marker date="1542206428764" expanded="true" signature="375:428" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/MethodInf.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <marker date="1542206566041" expanded="true" signature="54:668" ph="{...}" />
-            <marker date="1542206566041" expanded="true" signature="83:666" ph="{...}" />
-            <marker date="1542206566041" expanded="true" signature="373:660" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/FieldInf.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <marker date="1542206723476" expanded="true" signature="54:486" ph="{...}" />
-            <marker date="1542206723476" expanded="true" signature="82:484" ph="{...}" />
-            <marker date="1542206723476" expanded="true" signature="284:474" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/TypeInf.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
-          <folding>
-            <marker date="1542206823949" expanded="false" signature="6:47" ph="..." />
-            <marker date="1542206823949" expanded="true" signature="77:1454" ph="{...}" />
-            <marker date="1542206823949" expanded="true" signature="105:1452" ph="{...}" />
-            <marker date="1542206823949" expanded="true" signature="558:959" ph="{...}" />
-            <marker date="1542206823949" expanded="true" signature="1008:1164" ph="{...}" />
-            <marker date="1542206823949" expanded="true" signature="1072:1152" ph="{...}" />
-            <marker date="1542206823949" expanded="true" signature="1212:1361" ph="{...}" />
-            <marker date="1542206823949" expanded="true" signature="1274:1351" ph="{...}" />
-            <marker date="1542206823949" expanded="true" signature="1413:1446" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AssemblyBrowserLib/PropertyInf.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <marker date="1542206948752" expanded="true" signature="54:609" ph="{...}" />
-            <marker date="1542206948752" expanded="true" signature="85:607" ph="{...}" />
-            <marker date="1542206948752" expanded="true" signature="365:601" ph="{...}" />
+            <marker date="1542726697155" expanded="true" signature="0:501" ph="&lt;&lt;Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1542726697155" expanded="true" signature="464:491" ph="&lt;.../&gt;" />
           </folding>
         </state>
       </provider>

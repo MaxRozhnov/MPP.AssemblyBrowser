@@ -14,8 +14,7 @@ namespace AssemblyBrowserLib
         public bool IsFinal { get; }
 
         public MethodInf(MethodInfo method)
-        {
-            
+        {         
             Name = method.Name;
             Signature = method.ToString();
             
@@ -23,7 +22,6 @@ namespace AssemblyBrowserLib
             IsVirtual = method.IsVirtual;
             IsFinal = method.IsFinal;
             IsPublic = method.IsPublic;
-     
         }
     }
 }

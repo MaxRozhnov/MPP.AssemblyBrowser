@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Button x:Name="myButton" Width="120" Height="40" Content="Кнопка" HorizontalAlignment="Left" Background="Red" />
+        <Expander Header="Namespace">
+            <StackPanel>
+                <Expander Header="Type"></Expander>
+                <Expander Header="Type"></Expander>
+                <Expander Header="Type"></Expander>
+            </StackPanel>
+
+        </Expander>
+       
     </Grid>
 </Window>

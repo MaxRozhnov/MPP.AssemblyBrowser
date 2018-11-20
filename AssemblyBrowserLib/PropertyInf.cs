@@ -11,19 +11,15 @@ namespace AssemblyBrowserLib
         public bool Writable { get; set; }
         public bool Readable { get; set; }
 
-
-
         public PropertyInf(PropertyInfo property)
 
         {
-
             Name = property.Name;
             PropertyType = property.PropertyType.Name;
             
             IsPublic = true;
             Readable = property.CanRead;
             Writable = property.CanWrite;
-
         }
     }
 }

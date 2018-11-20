@@ -1,6 +1,4 @@
-﻿using System.Windows;
-
-namespace Lab_Task_3
+﻿namespace AssemblyBrowser
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -11,6 +9,5 @@ namespace Lab_Task_3
         {
             InitializeComponent();
         }
-
     }
 }

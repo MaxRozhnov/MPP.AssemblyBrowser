@@ -12,13 +12,11 @@ namespace AssemblyBrowserLib
 
         public FieldInf(FieldInfo field)
         {
-
             Name = field.Name;
             FieldType = field.FieldType.Name;
             
             IsPublic = field.IsPublic;
             IsStatic = field.IsStatic;
-
         }
 
 
