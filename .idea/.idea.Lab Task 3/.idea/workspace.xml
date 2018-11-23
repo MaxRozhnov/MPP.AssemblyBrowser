@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8c97d80-0536-4935-a00a-baa6d979a0a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab Task 3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowser/ViewModel/TypeVM.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowser/ViewModel/TypeVM.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowser/bin/Debug/AssemblyBrowser.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowser/bin/Debug/AssemblyBrowser.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowser/bin/Debug/AssemblyBrowser.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowser/bin/Debug/AssemblyBrowser.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowser/obj/Debug/AssemblyBrowser.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowser/obj/Debug/AssemblyBrowser.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssemblyBrowser/obj/Debug/AssemblyBrowser.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AssemblyBrowser/obj/Debug/AssemblyBrowser.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Task 3.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +16,7 @@
     <session id="-659173409">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.8" value="2" />
@@ -43,13 +40,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="3996" />
+          <entry key="cs" value="3997" />
           <entry key="xaml" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3996" />
+          <entry key="C#" value="3997" />
           <entry key="XAML" value="104" />
         </counts>
       </usages-collector>
@@ -57,41 +54,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AssemblyBrowser/ViewModel/TypeVM.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="63" column="50" lean-forward="true" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+            <state relative-caret-position="390">
+              <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
               <folding>
-                <marker date="1542981919284" expanded="false" signature="6:110" ph="..." />
-                <marker date="1542981919284" expanded="true" signature="147:2941" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="173:2939" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="315:1189" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="341:1179" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="438:529" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="565:656" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="695:789" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="849:942" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="977:1067" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="1233:2080" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="1259:2070" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="1307:2056" ph="/* foreach (var field in _type.Fields) ... */" />
-                <marker date="1542981919284" expanded="true" signature="2117:2933" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="2244:2322" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="2324:2434" ph="/* if (_type.Fields?.Count &gt; 0) ... */" />
-                <marker date="1542981919284" expanded="true" signature="2490:2607" ph="{...}" />
-                <marker date="1542981919284" expanded="true" signature="2625:2739" ph="/* if (_type.Properties?.Count &gt; 0) ... */" />
-                <marker date="1542981919284" expanded="true" signature="2790:2923" ph="{...}" />
+                <marker date="1542982213402" expanded="false" signature="6:110" ph="..." />
+                <marker date="1542982213402" expanded="true" signature="147:1874" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="173:1872" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="315:1189" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="341:1179" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="438:529" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="565:656" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="695:789" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="849:942" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="977:1067" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="1233:1330" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="1259:1320" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="1367:1866" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="1507:1585" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="1641:1725" ph="{...}" />
+                <marker date="1542982213402" expanded="true" signature="1776:1856" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AssemblyBrowser/MainWindow.xaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+            <state relative-caret-position="506">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
               <folding>
                 <marker date="1542752321107" expanded="true" signature="0:2221" ph="&lt;&lt;Window.DataContext&gt;&#10;        &lt;vm:VMMain/&gt;&#10;    &lt;/Window.DataContext&gt; &lt;Window.Resources&gt;&#10;        &#10;        &lt;vm:VMMain x:Key=&quot;VmMain&quot;/&gt;&#10;        &#10;        &lt;HierarchicalDataTemplate DataType=&quot;{x:Type vm:NamespaceVM}&quot; ItemsSource=&quot;{Binding Types}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding Name}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/HierarchicalDataTemplate&gt;&#10;        &#10;        &lt;HierarchicalDataTemplate DataType=&quot;{x:Type vm:TypeVM}&quot; ItemsSource=&quot;{Binding Members}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding TypeStringRepresentation}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/HierarchicalDataTemplate&gt;&#10;        &#10;        &lt;DataTemplate DataType=&quot;{x:Type vm:FieldVM}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding FieldStringRepresentation}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/DataTemplate&gt;&#10;        &#10;        &lt;DataTemplate DataType=&quot;{x:Type vm:PropertyVM}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding PropertyStringRepresentation}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/DataTemplate&gt;&#10;        &#10;        &lt;DataTemplate DataType=&quot;{x:Type vm:MethodVM}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding MethodStringRepresentation}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/DataTemplate&gt;&#10;        &#10;    &lt;/Window.Resources&gt; &lt;Grid&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;&gt;&lt;/RowDefinition&gt;&#10;            &lt;RowDefinition&gt;&lt;/RowDefinition&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;&#10;        &lt;Button Grid.Row=&quot;0&quot; &#10;                Command=&quot;{Binding LoadAssembly}&quot; &#10;                x:Name=&quot;loadAssemblyButton&quot;&#10;                Content=&quot;Load Assembly&quot;&gt;&lt;/Button&gt;&#10;&#10;        &lt;TreeView Grid.Row =&quot;1&quot; x:Name=&quot;assemblyInfoTreeView&quot;&gt;&#10;            &lt;TreeViewItem ItemsSource=&quot;{Binding Namespaces}&quot; Header=&quot;Assembly info&quot;/&gt;&#10;        &lt;/TreeView&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
                 <marker date="1542752321107" expanded="true" signature="523:590" ph="&lt;&lt;vm:VMMain/&gt;.../&gt;" />
@@ -199,22 +193,6 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Lab Task 3" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Lab Task 3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AssemblyBrowser" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Lab Task 3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AssemblyBrowser" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ViewModel" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Lab Task 3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestApp" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -324,12 +302,12 @@
       <workItem from="1542637025818" duration="1387000" />
       <workItem from="1542719996973" duration="5481000" />
       <workItem from="1542745906894" duration="6341000" />
-      <workItem from="1542981580853" duration="444000" />
+      <workItem from="1542981580853" duration="721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26571000" />
+    <option name="totallyTimeSpent" value="26848000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -344,12 +322,12 @@
     <frame x="-7" y="-7" width="1721" height="1081" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21613486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21613486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,7 +340,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="15" weight="0.32911393" />
+      <window_info active="true" anchor="bottom" id="Build" order="15" visible="true" weight="0.32911393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -595,38 +573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AssemblyBrowser/ViewModel/TypeVM.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="63" column="50" lean-forward="true" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
-          <folding>
-            <marker date="1542981919284" expanded="false" signature="6:110" ph="..." />
-            <marker date="1542981919284" expanded="true" signature="147:2941" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="173:2939" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="315:1189" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="341:1179" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="438:529" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="565:656" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="695:789" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="849:942" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="977:1067" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="1233:2080" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="1259:2070" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="1307:2056" ph="/* foreach (var field in _type.Fields) ... */" />
-            <marker date="1542981919284" expanded="true" signature="2117:2933" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="2244:2322" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="2324:2434" ph="/* if (_type.Fields?.Count &gt; 0) ... */" />
-            <marker date="1542981919284" expanded="true" signature="2490:2607" ph="{...}" />
-            <marker date="1542981919284" expanded="true" signature="2625:2739" ph="/* if (_type.Properties?.Count &gt; 0) ... */" />
-            <marker date="1542981919284" expanded="true" signature="2790:2923" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AssemblyBrowser/MainWindow.xaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        <state relative-caret-position="506">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
           <folding>
             <marker date="1542752321107" expanded="true" signature="0:2221" ph="&lt;&lt;Window.DataContext&gt;&#10;        &lt;vm:VMMain/&gt;&#10;    &lt;/Window.DataContext&gt; &lt;Window.Resources&gt;&#10;        &#10;        &lt;vm:VMMain x:Key=&quot;VmMain&quot;/&gt;&#10;        &#10;        &lt;HierarchicalDataTemplate DataType=&quot;{x:Type vm:NamespaceVM}&quot; ItemsSource=&quot;{Binding Types}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding Name}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/HierarchicalDataTemplate&gt;&#10;        &#10;        &lt;HierarchicalDataTemplate DataType=&quot;{x:Type vm:TypeVM}&quot; ItemsSource=&quot;{Binding Members}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding TypeStringRepresentation}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/HierarchicalDataTemplate&gt;&#10;        &#10;        &lt;DataTemplate DataType=&quot;{x:Type vm:FieldVM}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding FieldStringRepresentation}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/DataTemplate&gt;&#10;        &#10;        &lt;DataTemplate DataType=&quot;{x:Type vm:PropertyVM}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding PropertyStringRepresentation}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/DataTemplate&gt;&#10;        &#10;        &lt;DataTemplate DataType=&quot;{x:Type vm:MethodVM}&quot;&gt;&#10;            &lt;TextBlock Text=&quot;{Binding MethodStringRepresentation}&quot; Margin=&quot;10, 0, 0, 0&quot;/&gt;&#10;        &lt;/DataTemplate&gt;&#10;        &#10;    &lt;/Window.Resources&gt; &lt;Grid&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;&gt;&lt;/RowDefinition&gt;&#10;            &lt;RowDefinition&gt;&lt;/RowDefinition&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;&#10;        &lt;Button Grid.Row=&quot;0&quot; &#10;                Command=&quot;{Binding LoadAssembly}&quot; &#10;                x:Name=&quot;loadAssemblyButton&quot;&#10;                Content=&quot;Load Assembly&quot;&gt;&lt;/Button&gt;&#10;&#10;        &lt;TreeView Grid.Row =&quot;1&quot; x:Name=&quot;assemblyInfoTreeView&quot;&gt;&#10;            &lt;TreeViewItem ItemsSource=&quot;{Binding Namespaces}&quot; Header=&quot;Assembly info&quot;/&gt;&#10;        &lt;/TreeView&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
             <marker date="1542752321107" expanded="true" signature="523:590" ph="&lt;&lt;vm:VMMain/&gt;.../&gt;" />
@@ -640,6 +590,31 @@
             <marker date="1542752321107" expanded="true" signature="1700:1854" ph="&lt;&lt;RowDefinition Height=&quot;Auto&quot;&gt;&lt;/RowDefinition&gt; &lt;RowDefinition&gt;&lt;/RowDefinition&gt;.../&gt;" />
             <marker date="1542752321107" expanded="true" signature="1864:2029" ph="&lt;.../&gt;" />
             <marker date="1542752321107" expanded="true" signature="2039:2199" ph="&lt;&lt;TreeViewItem ItemsSource=&quot;{Binding Namespaces}&quot; Header=&quot;Assembly info&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssemblyBrowser/ViewModel/TypeVM.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <marker date="1542982213402" expanded="false" signature="6:110" ph="..." />
+            <marker date="1542982213402" expanded="true" signature="147:1874" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="173:1872" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="315:1189" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="341:1179" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="438:529" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="565:656" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="695:789" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="849:942" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="977:1067" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="1233:1330" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="1259:1320" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="1367:1866" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="1507:1585" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="1641:1725" ph="{...}" />
+            <marker date="1542982213402" expanded="true" signature="1776:1856" ph="{...}" />
           </folding>
         </state>
       </provider>
