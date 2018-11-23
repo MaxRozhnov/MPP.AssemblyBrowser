@@ -12,6 +12,7 @@ namespace AssemblyBrowser.ViewModel
         private DelegateCommand _delegateCommand;
         private FileOpener _fileOpener;
 
+        
         public List<NamespaceVM> Namespaces
         {
             get
@@ -38,7 +39,7 @@ namespace AssemblyBrowser.ViewModel
                 }
             }); 
         }
-
+        
         public VMMain()
         {
             _fileOpener = new FileOpener();

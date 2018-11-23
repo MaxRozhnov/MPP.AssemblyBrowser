@@ -6,7 +6,7 @@
         xmlns:vm="clr-namespace:AssemblyBrowser.ViewModel"
         xmlns:local="clr-namespace:AssemblyBrowser"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Assembly Browser" Height="480" Width="640">
     <Window.DataContext>
         <vm:VMMain/>
     </Window.DataContext>
@@ -37,19 +37,22 @@
         
     </Window.Resources>
     
-    <Grid>
+    <Grid ShowGridLines="False">
         <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
-
         <Button Grid.Row="0" 
                 Command="{Binding LoadAssembly}" 
-                x:Name="loadAssemblyButton"
-                Content="Load Assembly"></Button>
-
-        <TreeView Grid.Row ="1" x:Name="assemblyInfoTreeView">
-            <TreeViewItem ItemsSource="{Binding Namespaces}" Header="Assembly info"/>
+                x:Name="LoadAssemblyButton"
+                Width="200"
+                Height="20"
+                Content="Load Assembly">
+        </Button>
+       
+        <TreeView Grid.Row ="1" x:Name="AssemblyInfoTreeView">
+            <TreeViewItem ItemsSource="{Binding Namespaces}" Header=""/>
         </TreeView>
     </Grid>
+    
 </Window>

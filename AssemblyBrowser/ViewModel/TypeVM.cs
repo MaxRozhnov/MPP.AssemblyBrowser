@@ -41,7 +41,7 @@ namespace AssemblyBrowser.ViewModel
             }
         }
 
-        public IEnumerable<object> Members
+        public List<object> Members
         {
             get
             {
