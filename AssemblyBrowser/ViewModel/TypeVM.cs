@@ -8,6 +8,7 @@ namespace AssemblyBrowser.ViewModel
     public class TypeVM
     {
         private readonly TypeInf _type;
+        private readonly List<object> _members;
 
         public string TypeStringRepresentation
         {
@@ -44,36 +45,29 @@ namespace AssemblyBrowser.ViewModel
         {
             get
             {
-                foreach (var field in _type.Fields)
-                {
-                    yield return new FieldVM(field);
-                }
-
-                if (_type.Fields?.Count > 0)
-                {
-                    yield return " ";
-                }
-
-                foreach (var property in _type.Properties)
-                {
-                    yield return new PropertyVM(property);
-                }
-                
-                if (_type.Properties?.Count > 0)
-                {
-                    yield return " ";
-                }
-
-                foreach (var method in _type.Methods)
-                {
-                    yield return new MethodVM(method);
-                }
+                return _members;
             }
         }
 
         public TypeVM(TypeInf type)
         {
             _type = type;
+            _members = new List<object>();
+            
+            foreach (var field in _type.Fields)
+            {
+                _members.Add(new FieldVM(field));
+            }
+
+            foreach (var property in _type.Properties)
+            {
+                _members.Add(new PropertyVM(property));
+            }
+
+            foreach (var method in _type.Methods)
+            {
+                _members.Add(new MethodVM(method));
+            }
         }
     }
 }
